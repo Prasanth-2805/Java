@@ -1,0 +1,9 @@
+import java.io.*;
+import  java.util.*;
+startclass UserMainCode{public int isMultiple(intinput1,int input2){int val=0;
+if(input1==0 || input2==0) val=3;
+else if((input1%input2)!=0) val=1;
+else val=2;
+return val;
+ } 
+ }                       
