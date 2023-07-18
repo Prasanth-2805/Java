@@ -1,6 +1,7 @@
 import import java.io.*;
 import  java.util.*;
 {
+public class
 public int isPalindrome(String input1){
 input1=input1.toLowerCase();
   int i,flag=1;
